@@ -1,4 +1,4 @@
-# Mangastash
+# MangaStash
 
 Free manga reading platform — no account needed to read, clean reader, no ads
 clutter. Chapters are organized per series with full browsing, search, and
@@ -15,7 +15,7 @@ collections.
 
 ## Website
 
-https://mangastash.org
+https://MangaStash.org
 
 ## Disclaimer
 
